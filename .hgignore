@@ -1,0 +1,5 @@
+syntax: glob
+.svn
+.git
+src/java/generated
+build
